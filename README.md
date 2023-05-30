@@ -23,8 +23,8 @@ Learn everything you need to about the subject of this `Udemy` project.
 **Section 2: ChatGPT: Fundamentals and 150+ Prompting ideas for ChatGPT**
 [x] 4.What We'll Learn About Using ChatGPT 4min
 [x] 5.ChatGPT vs. Google 4min
-[ ] 6.Hub for Important ChatGPT Links (Discord, FAQ, etc.) 1min
-[ ] 7.Website Layout and Interface 4min
+[x] 6.Hub for Important ChatGPT Links (Discord, FAQ, etc.) 1min
+[x] 7.Website Layout and Interface 4min
 [ ] 8.Effectively Creating Prompts 6min
 [ ] 9.Article: Github 150+ Prompting Ideas for ChatGPT 1min
 [ ] 10.Modifiers for Better Outputs 3min
