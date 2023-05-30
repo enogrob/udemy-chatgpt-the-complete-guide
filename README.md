@@ -25,7 +25,7 @@ Learn everything you need to about the subject of this `Udemy` project.
 [x] 5.ChatGPT vs. Google 4min
 [x] 6.Hub for Important ChatGPT Links (Discord, FAQ, etc.) 1min
 [x] 7.Website Layout and Interface 4min
-[ ] 8.Effectively Creating Prompts 6min
+[x] 8.Effectively Creating Prompts 6min
 [ ] 9.Article: Github 150+ Prompting Ideas for ChatGPT 1min
 [ ] 10.Modifiers for Better Outputs 3min
 [ ] 11.OpenAI Playground Walkthrough 6min
