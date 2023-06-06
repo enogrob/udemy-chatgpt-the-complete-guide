@@ -29,6 +29,6 @@ Learn everything you need to about the subject of this `Udemy` project.
 [x] 9.Article: Github 150+ Prompting Ideas for ChatGPT 1min
 [x] 10.Modifiers for Better Outputs 3min
 [x] 11.OpenAI Playground Walkthrough 6min
-[ ] 12.Learning Activity: Create Your ChatGPT Prompt 1min
-[ ] 13.ChatGPT-4: Here are the Details! 5min
-[ ] 14.ChatGPT Tokens Explained 6min
+[x] 12.Learning Activity: Create Your ChatGPT Prompt 1min
+[x] 13.ChatGPT-4: Here are the Details! 5min
+[x] 14.ChatGPT Tokens Explained 6min
