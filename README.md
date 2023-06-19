@@ -36,10 +36,10 @@ Learn everything you need to about the subject of this `Udemy` project.
 **Section 3: ChatGPT: Prompt Engineering and Custom 17 Page Prompting Guide PDF**
 [x] 15.Clarification on ChatGPT Limitations 1min
 [x] 16.(Download PDF Here) What You'll Learn in This Section 3min
-[ ] 17.What is Prompt Engineering 5min
-[ ] 18.Prompt Priming 3min
-[ ] 19.30 Simple Prompt Starters 1min
-[ ] 20.New Ideas and Copy Generation 4min
+[x] 17.What is Prompt Engineering 5min
+[x] 18.Prompt Priming 3min
+[x] 19.30 Simple Prompt Starters 1min
+[x] 20.New Ideas and Copy Generation 4min
 [ ] 21.Client Emails, Analogies, and Bulk Writing 4min
 [ ] 22.Effective Prompt Revisions 3min
 [ ] 23.Zero, One, and Few Shot Prompting 3min
